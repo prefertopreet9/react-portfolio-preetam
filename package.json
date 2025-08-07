@@ -16,7 +16,6 @@
     "tailwindcss": "^3.1.6",
     "web-vitals": "^2.1.0"
   },
-  "homepage": "https://prefertopreet9.github.io/react-portfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
